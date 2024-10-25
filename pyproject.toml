@@ -12,7 +12,7 @@ all = [
     {include-group = "lint"},
     {include-group = "test"},
     {include-group = "typing"},
-    "pre-commit==4.0.0",
+    "pre-commit==4.0.1",
     "watchfiles==0.23.0",
 ]
 
